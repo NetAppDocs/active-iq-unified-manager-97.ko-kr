@@ -1,0 +1,63 @@
+---
+permalink: online-help/reference-what-ontap-issues-can-unified-manager-fix.html 
+sidebar: sidebar 
+keywords: fix it 
+summary: 이 표에서는 ONTAP에서 수정 버튼을 클릭하여 Unified Manager 사용자 인터페이스에서 직접 해결할 수 있는 문제에 대해 설명합니다. 
+---
+= Unified Manager로 해결할 수 있는 ONTAP 문제
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+이 표에서는 * Fix it * 버튼을 클릭하여 Unified Manager 사용자 인터페이스에서 직접 해결할 수 있는 ONTAP 문제에 대해 설명합니다.
+
+[cols="1a,1a,1a"]
+|===
+| 이벤트 이름 및 설명 | 관리 조치 | 수정 동작 
+
+
+ a| 
+볼륨 공간이 가득 찼습니다
+
+볼륨에 공간이 거의 부족하고 용량 최대 임계값을 위반했음을 나타냅니다. 이 임계값은 기본적으로 볼륨 크기의 90%로 설정되어 있습니다.
+ a| 
+볼륨 자동 확장 활성화
+ a| 
+Unified Manager에서 볼륨 자동 확장이 이 볼륨에 구성되지 않은 것으로 판단하면 이 기능을 사용할 수 있으므로 사용된 공간에 따라 볼륨 크기가 커지거나 줄어듭니다.
+
+
+
+ a| 
+옵션 cf.takeover.on_panic이 off로 구성됩니다
+
+notesdell 옵션 ""cf. takeover.on_panic""이 * off * 로 설정되어 HA 구성 시스템에 문제가 발생할 수 있습니다.
+ a| 
+패닉 시 Takeover를 설정합니다
+ a| 
+Unified Manager가 적절한 명령을 클러스터에 전송하여 이 설정을 * On * 으로 변경합니다.
+
+
+
+ a| 
+nodesell 옵션 SnapMirror.enable을 비활성화합니다
+
+이전 노드 쉘의 옵션 "'스냅샷.활성화'는 * On * 으로 설정되어 ONTAP 9.3 이상으로 업그레이드한 후 부팅 중에 문제가 발생할 수 있습니다.
+ a| 
+SnapMirror.enable 옵션을 off로 설정합니다
+ a| 
+Unified Manager가 적절한 명령을 클러스터에 전송하여 이 설정을 * 꺼짐 * 으로 변경합니다.
+
+
+
+ a| 
+텔넷이 활성화되었습니다
+
+텔넷이 안전하지 않고 암호화되지 않은 방식으로 데이터를 전달하므로 잠재적인 보안 문제를 나타냅니다.
+ a| 
+텔넷을 비활성화합니다
+ a| 
+Unified Manager에서 텔넷을 사용하지 않도록 설정하려면 클러스터에 다음 명령을 보냅니다. `security protocol modify -application telnet -enabled false`
+
+|===

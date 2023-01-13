@@ -1,0 +1,20 @@
+---
+permalink: online-help/concept-fixing-ontap-issues-directly-from-unified-manager.html 
+sidebar: sidebar 
+keywords: fix it 
+summary: Unified Manager 9.7부터 ONTAP System Manager 또는 ONTAP CLI를 사용하지 않고도 Unified Manager 사용자 인터페이스에서 특정 ONTAP 문제를 직접 해결할 수 있습니다. 
+---
+= Unified Manager에서 직접 ONTAP 문제 해결
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Unified Manager 9.7부터 ONTAP System Manager 또는 ONTAP CLI를 사용하지 않고도 Unified Manager 사용자 인터페이스에서 특정 ONTAP 문제를 직접 해결할 수 있습니다.
+
+"관리 작업"이라는 새로운 기능은 Unified Manager 이벤트를 발생시킨 여러 ONTAP 문제에 대한 수정 사항을 제공합니다. 관리 작업은 Dashboard, Event Details 페이지 및 왼쪽 탐색 메뉴의 Workload Analysis 선택 항목에서 사용할 수 있습니다.
+
+Unified Manager에서 완벽하게 진단하고 한 가지 해결 방법을 제공할 수 있는 특정 문제가 있습니다. 사용 가능한 경우 이러한 해결 방법은 [Fix it*] 단추로 관리 작업 에 표시됩니다. 문제를 해결하려면 * Fix it * 버튼을 클릭하십시오.
+
+Unified Manager가 ONTAP 명령을 클러스터에 전송하여 요청된 수정을 실행합니다. 수정이 완료되면 이벤트가 폐기됩니다.
