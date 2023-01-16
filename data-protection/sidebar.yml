@@ -36,7 +36,7 @@ entries:
     - title: 볼륨/상태 세부 정보 페이지에서 보호 관계를 반대로 설정합니다
       url: "/data-protection/task-reversing-protection-relationships-from-the-health-volume-details-page.html"
     - title: 볼륨/상태 세부 정보 페이지에서 보호 관계를 제거합니다
-      url: "/data-protection/.html"
+      url: "/data-protection/task-removing-a-protection-relationship-from-the-health-volume-details-page.html"
     - title: 볼륨/상태 세부 정보 페이지에서 보호 관계를 재동기화합니다
       url: "/data-protection/task-resynchronizing-protection-relationships-from-the-health-volume-details-page.html"
   - title: 보호 작업 실패 해결

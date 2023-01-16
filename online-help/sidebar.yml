@@ -1431,5 +1431,3 @@ entries:
     url: "/online-help/reference-user-not-found.html"
   - title: 다른 인증 서비스를 사용하여 LDAP를 추가하는 데 문제가 있습니다
     url: "/online-help/reference-issue-with-adding-ldap-using-other-authentication-services.html"
-- title: 설명서에 대한 의견을 보내고 업데이트 알림을 받는 방법
-  url: "/online-help/concept-how-to-send-comments-about-documentation-and-receive-update-notifications-netapp-post-preface.html"
