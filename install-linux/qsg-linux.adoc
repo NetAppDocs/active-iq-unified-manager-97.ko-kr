@@ -17,7 +17,7 @@ summary: Linux 플랫폼의 Unified Manager에 대한 빠른 시작 가이드
 * 사용 가능한 디스크 공간: 에서 100GB 디스크 공간 `/opt/netapp/data` 디렉토리, 루트 파티션에 50GB. 별도 장착형 `/opt` 및 `/var/log` 디렉토리를 참조하십시오 `/opt` 15GB, `/var/log` 16GB, 및 `/tmp` 10GB의 여유 공간이 있습니다.
 
 
-시스템 요구 사항에 대한 자세한 내용과 보안 사이트에 제품을 설치하는 방법에 대한 자세한 내용은 을 참조하십시오 link:./install-linux/concept-requirements-for-installing-unified-manager.html["Unified Manager 설치 요구 사항"] 및 link:http://mysupport.netapp.com/matrix["상호 운용성 매트릭스"].
+시스템 요구 사항에 대한 자세한 내용과 보안 사이트에 제품을 설치하는 방법에 대한 자세한 내용은 을 참조하십시오 link:concept-requirements-for-installing-unified-manager.html["Unified Manager 설치 요구 사항"] 및 link:http://mysupport.netapp.com/matrix["상호 운용성 매트릭스"].
 
 
 

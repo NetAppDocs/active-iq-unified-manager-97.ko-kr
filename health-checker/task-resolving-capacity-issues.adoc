@@ -35,7 +35,7 @@ summary: 이 워크플로우는 용량 문제를 해결하는 방법의 예를 �
 
 . 이벤트 * 세부 정보 페이지에서 다음 작업 중 하나 이상을 수행할 수 있습니다.
 +
-** 원인 필드의 오류 메시지를 검토하고 권장 해결 조치 아래에 있는 제안 사항을 클릭하여 가능한 해결 방법을 검토합니다. link:task-performing-suggested-remedial-actions-for-a-full-volume.adoc["전체 볼륨에 대해 제안된 개선 작업 수행"]
+** 원인 필드의 오류 메시지를 검토하고 권장 해결 조치 아래에 있는 제안 사항을 클릭하여 가능한 해결 방법을 검토합니다. link:task-performing-suggested-remedial-actions-for-a-full-volume.html["전체 볼륨에 대해 제안된 개선 작업 수행"]
 ** 객체에 대한 세부 정보를 보려면 소스 필드에서 객체 이름(이 경우 볼륨)을 클릭합니다. xref:reference-health-volume-details-page.adoc[볼륨 세부 정보 페이지]
 ** 이 이벤트에 대해 추가되었을 수 있는 참고 사항을 찾습니다. xref:task-adding-and-reviewing-notes-about-an-event.adoc[이벤트와 관련된 메모 추가 및 검토]
 ** 이벤트에 메모를 추가합니다. xref:task-adding-and-reviewing-notes-about-an-event.adoc[이벤트와 관련된 메모 추가 및 검토]

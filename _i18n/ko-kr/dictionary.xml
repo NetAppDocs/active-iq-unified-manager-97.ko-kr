@@ -521,13 +521,11 @@
   <block id="031a28ccbd7de3572a1cc7884f4803d3" category="list-text">2개의 클러스터 또는 2개의 SVM(스토리지 가상 머신) 간에 피어 관계를 설정해야 합니다.</block>
   <block id="fc6ca4cf30ee3b9b38b2abb695f0f9c3" category="list-text">OnCommand Workflow Automation을 Unified Manager와 통합해야 함:</block>
   <block id="9fe21fedf7305d77031a6284024994ea" category="inline-link-macro">OnCommand Workflow Automation를 설정합니다</block>
-  <block id="bf736f6bb23af57a8ae0f92aada7af91" category="list-text"><block ref="bf736f6bb23af57a8ae0f92aada7af91" category="inline-link-macro-rx"></block></block>
   <block id="f941d418cae1dc73178c4c055a856d41" category="list-text"><block ref="f941d418cae1dc73178c4c055a856d41" category="inline-xref-macro-rx"></block></block>
   <block id="b6ff9ac71a64cd241295fae2fd7f1502" category="list-text">만들려는 보호 관계 유형에 따라 다음 중 하나를 수행합니다.</block>
   <block id="5d2b0ffd64f891f66da28990d5d18ec6" category="inline-xref-macro">SnapMirror 보호 관계를 생성합니다</block>
   <block id="43db12653a1c210ab3d8642e7e356a21" category="list-text"><block ref="014291d4a9e75190d4192a21908388ce" category="inline-xref-macro-rx"></block>.</block>
   <block id="d0b82b5e5a3a52642c4373b65e59d68b" category="inline-link-macro">SnapVault 보호 관계를 생성합니다</block>
-  <block id="df3efe3b6bee9aa901d5d86b2898c91b" category="list-text"><block ref="bff1165017eb39b4496a02e24ba82e35" category="inline-link-macro-rx"></block>.</block>
   <block id="020b223b7c962e3291bc388001eb3e1d" category="list-text">관계에 대한 정책을 만들려면 만드는 관계 유형에 따라 다음 중 하나를 실행합니다.</block>
   <block id="6ff69f53781f3de3805e6689f585b380" category="inline-xref-macro">SnapVault 정책을 생성합니다</block>
   <block id="a1dafd7a03b16b5b9f0be7dbdb706fc4" category="list-text"><block ref="f94900083af82ccc62d9fb411c53c1bb" category="inline-xref-macro-rx"></block>.</block>
@@ -2876,7 +2874,6 @@
   <block id="a2992f349299086d8d17ee3b7a471aa7" category="list-text">CPU: 총 9572MHz</block>
   <block id="781c32908473254b5a4d86a06486a7b7" category="list-text">사용 가능한 디스크 공간: 5GB(씬 프로비저닝), 152GB(일반 프로비저닝)</block>
   <block id="dc351b2abbd920b35cff990b6582b9d7" category="inline-link-macro">상호 운용성 매트릭스</block>
-  <block id="ea6b5bad3425ffef13e8695824653240" category="paragraph">시스템 요구 사항에 대한 자세한 내용은 를 참조하십시오 <block ref="e6936a3c2c4d99a5cfe11a74b21ad8a5" category="inline-link-macro-rx"></block> 및 <block ref="6b67f16fed93b756518b295cb43f355b" category="inline-link-macro-rx"></block>.</block>
   <block id="9a3029780c58dd5c4ae9d7c235aacc2e" category="section-title">Active IQ Unified Manager를 설치하는 중입니다</block>
   <block id="be4d885e0542a29fcfbb71c1ff5a5cb0" category="section-title">설치 프로그램을 다운로드합니다</block>
   <block id="80cd4cbe1704d7224b26b62877da23b2" category="list-text">를 다운로드합니다<block ref="58963a595c988dc6f693cb3238dc907a" prefix=" " category="inline-code"></block> 루트 인증서가 포함된 파일, a<block ref="c47c7c7383225ab55ff591cb59c41e6b" prefix=" " category="inline-code"></block> 파일, 및<block ref="586ba478b7ebec665f3df120799b6c2e" prefix=" " category="inline-code"></block> 파일.</block>
@@ -3197,7 +3194,6 @@
   <block id="4c8433166e04a5e47b074c550210be33" category="paragraph">오류에 대한 이벤트 세부 정보 페이지가 표시됩니다.</block>
   <block id="e4c131bc85ba085c99a3d24455f899c0" category="list-text">이벤트 * 세부 정보 페이지에서 다음 작업 중 하나 이상을 수행할 수 있습니다.</block>
   <block id="5123785ba44b9602ac5318d31713465a" category="inline-link-macro">전체 볼륨에 대해 제안된 개선 작업 수행</block>
-  <block id="164b0e53a836c4e02d3650db7d86c36c" category="list-text">원인 필드의 오류 메시지를 검토하고 권장 해결 조치 아래에 있는 제안 사항을 클릭하여 가능한 해결 방법을 검토합니다. <block ref="dc648a8bc40534b38d4afbc8e3dedf02" category="inline-link-macro-rx"></block></block>
   <block id="2df5484eb422d262f1c0080f3c33b823" category="inline-xref-macro">볼륨 세부 정보 페이지</block>
   <block id="0db6c498c56aae598046d084e3163dd8" category="list-text">객체에 대한 세부 정보를 보려면 소스 필드에서 객체 이름(이 경우 볼륨)을 클릭합니다. <block ref="1e5be2009b191f5cbd0585cd1b7faa50" category="inline-xref-macro-rx"></block></block>
   <block id="d2796bc844db718566017d009c9ec3a1" category="inline-xref-macro">이벤트와 관련된 메모 추가 및 검토</block>
@@ -4540,7 +4536,6 @@
   <block id="e5d07b1223a312f4b924e03868e15c74" category="paragraph">경우에 따라 이벤트 설명에 이벤트가 트리거되는 이유가 제공됩니다.</block>
   <block id="935c648586b1d00e91c9aed75c3ec7ad" category="list-text">* 경합의 요소 *</block>
   <block id="a638acac63340211b46a03f6db1bad1f" category="paragraph">동적 성능 이벤트의 경우 이 섹션에는 클러스터의 논리적 및 물리적 구성요소를 나타내는 아이콘이 표시됩니다. 구성 요소의 경합이 발생한 경우 해당 아이콘이 빨간색 원으로 강조 표시됩니다.</block>
-  <block id="50db78f7c6f8311cd52dcb3e51a3b89d" category="paragraph">을 참조하십시오 <block ref="16e87216931e426be7c40c44d34094b9" category="inline-link-macro-rx"></block> 여기에 표시된 구성 요소에 대한 설명은 를 참조하십시오.</block>
   <block id="b9cb664a9969c3b20e0e188d1fb6478d" category="paragraph">이벤트 정보, 시스템 진단 및 권장 조치 섹션은 기타 항목에서 설명합니다.</block>
   <block id="a67ddca76adf43ec028318ef944520e3" category="list-text">* 메모 아이콘 *</block>
   <block id="a76331d14425953ebfe5bda11894fb40" category="paragraph">이벤트에 대한 메모를 추가하거나 업데이트하고 다른 사용자가 남긴 모든 메모를 검토할 수 있습니다.</block>
@@ -5276,11 +5271,9 @@
   <block id="f32ced6a9ba164c4b3c047fd1d7c882e" category="list-text">일본어</block>
   <block id="1e81fc32fea0e9f3a978661e4b5e484d" category="list-text">중국어 간체</block>
   <block id="ce144bc93be4300e9c20965d4a541b93" category="list-text">사용 가능한 디스크 공간: 설치 디렉토리를 위한 100GB 디스크 공간, MySQL 데이터 디렉토리를 위한 50GB의 디스크 공간</block>
-  <block id="00ce2fd86cb6880d2be28e95af57765c" category="paragraph">시스템 요구 사항에 대한 자세한 내용은 를 참조하십시오 <block ref="3492ab28a0daefa113aca361669de85d" category="inline-link-macro-rx"></block> 및 <block ref="6b67f16fed93b756518b295cb43f355b" category="inline-link-macro-rx"></block>.</block>
   <block id="fe477fb8f5012f10b95318c29b24ba27" category="list-text">를 다운로드합니다<block ref="3432d6273cf05f582f2668c16220db86" prefix=" " category="inline-code"></block> 설치 패키지.</block>
   <block id="9fa35674a7d450b5af2cb972df71de22" category="list-text">설치 파일을 대상 시스템의 디렉토리에 복사합니다.</block>
   <block id="abbfbdaf21746bca446ca43c755eb8ef" category="inline-link-macro">Windows 소프트웨어 및 설치 요구 사항</block>
-  <block id="d1ef14de2e7ab8f44d4a931119e1721a" category="paragraph">Unified Manager를 설치하려면 Microsoft .NET 4.5.2 이상 버전이 설치되어 있어야 합니다. 설치 프로세스 중에 Unified Manager가 필요에 따라 다른 타사 패키지를 설치합니다. 종속 소프트웨어 패키지에 대한 자세한 내용은 를 참조하십시오 <block ref="41439f63c5edcef1644c63ce7b857ef3" category="inline-link-macro-rx"></block>.</block>
   <block id="dbc2181fcd30e32fd20a72c97f99d008" category="list-text">설치 파일을 다운로드한 디렉토리에서 마우스 오른쪽 버튼을 클릭하여 Unified Manager 실행 파일(.exe)을 관리자로 실행합니다.</block>
   <block id="55aa1733d6abe99d7ba4f41ab73f3a34" category="list-text">메시지가 표시되면 사용자 이름과 암호를 입력하여 Unified Manager 유지보수 사용자를 생성합니다.</block>
   <block id="cf84f1efc2b94e2be0cfb3168fbb6f79" category="list-text">데이터베이스 연결 마법사에서 MySQL 루트 암호를 입력합니다.</block>
@@ -6045,7 +6038,6 @@
   <block id="5ea9949c5a1488a045fd377101c74d86" category="list-text">* 성능 차트 영역 *</block>
   <block id="ea35f14d5f4e22cfd8d3d3ca79d3ebf1" category="paragraph">선택한 기간을 기준으로 지연 시간, 처리량(IOPS 및 MB/s 모두) 및 사용률(노드 및 애그리게이트 모두)에 대한 차트를 표시합니다. 성능 세부 정보 보기 링크를 클릭하면 추가 분석을 수행할 경우에 대비하여 작업 부하에 대한 성능 탐색기 페이지가 표시됩니다.</block>
   <block id="8159cc62f0bcddc4a9a50531f80d5ecc" category="list-text">* 지연 시간 * 은 워크로드의 지연 시간을 표시합니다. 이 차트에는 총 지연 시간, 읽기, 쓰기 및 기타 프로세스로 인한 지연 시간, 클러스터 구성 요소로 인한 지연 시간 등을 확인할 수 있는 3가지 보기가 있습니다.</block>
-  <block id="bb7edce326fbee68509f1f4b689c7058" category="paragraph">을 참조하십시오 <block ref="16e87216931e426be7c40c44d34094b9" category="inline-link-macro-rx"></block> 에 표시되는 클러스터 구성 요소에 대한 설명이 나와 있습니다.</block>
   <block id="b7e13471b3dd524247dcddd753f81d04" category="list-text">* 처리량 * 워크로드의 IOPS 및 MB/s 처리량을 모두 표시합니다. 이 차트에는 총 처리량과 읽기, 쓰기 및 기타 프로세스로 분할된 처리량을 볼 수 있는 두 가지 보기가 있습니다.</block>
   <block id="4e5ed85dca388a3a31749e59f754fc1c" category="paragraph">이 차트에는 QoS(서비스 품질) 최대 및 최소 처리량 임계값 설정도 표시되므로 시스템의 처리 능력을 의도적으로 제한할 수 있는 위치를 확인할 수 있습니다.</block>
   <block id="029ce6d34719fa88e1d0d9ec2d5f40ab" category="list-text">* Utilization * 은 워크로드가 실행되는 애그리게이트와 노드에 대한 활용률을 표시합니다. 여기에서 애그리게이트 또는 노드의 활용률이 지나치게 높으므로 지연 시간이 길어지는 것을 확인할 수 있습니다. FlexGroup 볼륨을 분석할 때 활용도 차트에 여러 노드와 여러 애그리게이트가 나열됩니다.</block>
@@ -7440,9 +7432,6 @@
   <block id="41e6157e293d48add644e8ba996fcc97" category="summary">Active IQ Unified Manager는 Unified Manager에서 관리하는 스토리지 워크로드와 관련된 기존 QoS 및 AQoS\(적응형 QoS\)를 모두 지원합니다.</block>
   <block id="431899ee248aac879e50f47978624616" category="doc">QoS를 AQoS로 업그레이드하기 위해 워크로드 수정</block>
   <block id="62d7bb48aa685e4507c1ba5c67d1336a" category="paragraph">Active IQ Unified Manager은 Unified Manager에서 관리하는 스토리지 워크로드와 관련된 기존 QoS(Adaptive QoS)와 AQoS(Adaptive QoS)를 모두 지원합니다.</block>
-  <block id="4be70c60e9789467261d3852e6b0a8ed" category="paragraph">ONTAP 클러스터를 9.1에서 9.3(파일 공유의 경우) 및 9.4(LUN의 경우)로 업그레이드하는 경우 Unified Manager에서 관리하는 각 워크로드의 기존 QoS를 AQoS로 업그레이드할 수 있습니다. 자세한 내용은 을 참조하십시오</block>
-  <block id="aa5cf936cb4fb39ed1dee060575b0d06" category="inline-link">클러스터 업그레이드 후 Unified Manager 관리 워크로드를 기존 QoS에서 AQoS로 업그레이드하는 방법</block>
-  <block id="78d4a83897b99415ac8ad5c120bda57f" category="paragraph"><block ref="78d4a83897b99415ac8ad5c120bda57f" category="inline-link-rx"></block></block>
   <block id="30774c46e559810eb26e025188823780" category="summary">스토리지 워크로드 수정은 누락된 매개 변수를 사용하여 LUN 또는 파일 공유를 업데이트하거나 기존 매개 변수를 변경하는 작업으로 구성됩니다.</block>
   <block id="0ba58d9003b19504ad38c6a2543c518a" category="doc">스토리지 워크로드 수정</block>
   <block id="e018190fc95075d0a3a80781bdaebacc" category="paragraph">이 워크플로우에서는 LUN 및 파일 공유에 대한 성능 서비스 수준을 업데이트하는 예제를 제공합니다.</block>
@@ -7890,7 +7879,6 @@
   <block id="1fd2b463bf2d975db21df998b30ccb30" category="list-text">운영 체제: x86_64 아키텍처 기반의 Red Hat Enterprise Linux 버전 7.x 및 8.x 또는 CentOS 버전 7.x는 OS 설치 프로그램의 * 소프트웨어 선택 * 옵션에서 "GUI 포함 서버" 기본 환경을 사용하여 설치됩니다</block>
   <block id="480c2974456cfdab733c75db7656f977" category="list-text">RAM: 12GB, CPU: 총 9572MHz</block>
   <block id="dd6993bbff983390c9accd8acbf1ed57" category="list-text">사용 가능한 디스크 공간: 에서 100GB 디스크 공간<block ref="7e1f8730cbdb33df27f5c6a989e8b48a" prefix=" " category="inline-code"></block> 디렉토리, 루트 파티션에 50GB. 별도 장착형<block ref="68ab1268abb7e5f5688810968df97d6b" prefix=" " category="inline-code"></block> 및<block ref="72ab0dd25459f7bfe6f0f90e0af20861" prefix=" " category="inline-code"></block> 디렉토리를 참조하십시오<block ref="68ab1268abb7e5f5688810968df97d6b" prefix=" " category="inline-code"></block> 15GB,<block ref="72ab0dd25459f7bfe6f0f90e0af20861" prefix=" " category="inline-code"></block> 16GB, 및<block ref="d42b9c57d24cf5db3bd8d332dc35437f" prefix=" " category="inline-code"></block> 10GB의 여유 공간이 있습니다.</block>
-  <block id="45a9cb384aadcd627c1ec3e6b735c107" category="paragraph">시스템 요구 사항에 대한 자세한 내용과 보안 사이트에 제품을 설치하는 방법에 대한 자세한 내용은 을 참조하십시오 <block ref="670b6cec3e8bfe31f2fe710887cb5bd0" category="inline-link-macro-rx"></block> 및 <block ref="6b67f16fed93b756518b295cb43f355b" category="inline-link-macro-rx"></block>.</block>
   <block id="9af7f6db16dadbd7d8fe0d5b1ea6031d" category="list-text">를 다운로드합니다<block ref="12e8f7937693d1d817495a9f09c36f7e" prefix=" " category="inline-code"></block> 코드 서명 인증서와 함께 설치 패키지 <block ref="bdf46f9562b038d0163af0feba0b1dfa" prefix="(" category="inline-code"></block>) 및 디지털 서명 <block ref="3328f02e81ee36344adceaeebdcfd4a4" prefix="(" category="inline-code"></block>)를 클릭합니다.</block>
   <block id="bb6790f4f8d82c3397bd5fda09daa3f7" category="list-text">설치 파일을 다운로드한 디렉토리에서 다음을 실행합니다.</block>
   <block id="29afb17b6fd794a230bca904d06a0015" category="paragraph"><block ref="2d7480c0e2f854da0cfecd6c5e2ca4bb" prefix="" category="inline-code"></block></block>
@@ -8032,7 +8020,6 @@
   <block id="c613afdd3b01593cb5bd9a4d62704464" category="list-text">시스템에 필요한 타사 유틸리티를 설치하려면 EPEL(Enterprise Linux) 리포지토리용 추가 패키지를 활성화해야 합니다.</block>
   <block id="14a09cefd70d155f53608a10c0075f89" category="paragraph">EPEL 리포지토리가 시스템에 구성되어 있지 않은 경우 리포지토리를 수동으로 다운로드하고 구성해야 합니다.</block>
   <block id="cf9cf11bad5d3f5d77b4012abbf218e4" category="inline-link-macro">EPEL 리포지토리를 수동으로 구성합니다</block>
-  <block id="d49c4ee7635bee24ddd03e23aa963c9c" category="paragraph"><block ref="d49c4ee7635bee24ddd03e23aa963c9c" category="inline-link-macro-rx"></block></block>
   <block id="dae5be77dcd5a2751c52abb8c0cc9026" category="list-text">올바른 버전의 MySQL이 설치되어 있지 않은 경우 MySQL 리포지토리를 활성화하여 시스템에 MySQL 소프트웨어를 성공적으로 설치해야 합니다.</block>
   <block id="9d4174201a3264f400c5be830729e691" category="paragraph">MySQL 리포지토리가 시스템에 구성되어 있지 않은 경우 리포지토리를 수동으로 다운로드하고 구성해야 합니다.</block>
   <block id="0bf58a07f9c4162d16eb1d2a403f0d41" category="inline-xref-macro">MySQL 리포지토리를 수동으로 구성합니다</block>
@@ -8483,8 +8470,6 @@
   <block id="12d49648274bb61cf34ecef5c6ec1acc" category="doc">Unified Manager REST API 사용</block>
   <block id="056ccccdf94ecae8a5c8847b4ee5facf" category="paragraph">Unified Manager REST API에 대한 자세한 내용은 를 참조하십시오 <block ref="abc01d0b3cd0346cb85bca1d725dc979" category="inline-link-macro-rx"></block>.</block>
   <block id="93f88d6c3be8dc08239feb316ead84f9" category="paragraph">가입할 수 있는 EMS 이벤트의 이름을 보려면 ONTAP 클러스터 쉘에서 을 사용할 수 있습니다<block ref="600519f6c6d0b7df8b905133fe79eb47" prefix=" " category="inline-code"></block> 명령(ONTAP 9 이전) 또는<block ref="83c19f62b32dae15ee31be017a321335" prefix=" " category="inline-code"></block> 명령(ONTAP 9 이상) 개별 EMS 이벤트 식별에 대한 자세한 지침은 Knowledgebase Answer 1072320을 참조하십시오.</block>
-  <block id="b7ea02fe1dbdcd1a4d97e075ed656e5d" category="inline-link">KB 1072320 - Unified Manager에서 ONTAP EMS 이벤트 등록을 구성하는 방법</block>
-  <block id="31217e322cc07a0593ddf09e0d4549b2" category="paragraph"><block ref="31217e322cc07a0593ddf09e0d4549b2" category="inline-link-rx"></block></block>
   <block id="dc1aaf8c08736de808959d661b2982d9" category="summary">Performance/SVM Explorer 페이지에서는 클러스터의 모든 SVM(스토리지 가상 머신)에 대한 자세한 성능 개요를 제공합니다.</block>
   <block id="96ae8904d957994459a2d0931e79c52a" category="doc">스토리지 VM/성능 탐색기 페이지</block>
   <block id="91ef4002ac703475b2df528f48f4fb01" category="paragraph">성능/SVM 탐색기 페이지에서는 클러스터의 모든 SVM(스토리지 가상 머신)에 대한 자세한 성능 개요를 제공합니다.</block>
@@ -8505,8 +8490,6 @@
   <block id="8bf16fa749903dd430c63d5f7b2bed5b" category="paragraph">오프라인 플래시 카드(ocumEvtFlashCardOffline)</block>
   <block id="008dc4c7a8172caafb4a09a375139945" category="summary">RBAC 설정에 따라 사용자 페이지에서 사용자를 추가하고 해당 사용자에게 적절한 역할을 할당하여 클러스터에 액세스하고 모니터링할 수 있습니다.</block>
   <block id="72a2d6c56d0c11a33538a8a7ffca2ca5" category="doc">사용자 액세스 창 및 대화 상자에 대한 설명입니다</block>
-  <block id="44fcc20d57d7a0f305afc033756027b0" category="inline-link">기술 자료 답변 1087704</block>
-  <block id="d1aef3e682def1701a41348e49b69d86" category="paragraph">증분 백업 파일 수가 백업에 할당된 공간에 비해 너무 많은 경우 를 참조하십시오<block ref="482f88c4d1dd0b295f7aef84ae814882" category="inline-link-rx"></block> 새 전체 백업을 정기적으로 생성하여 이전 전체 백업과 모든 하위 증분 파일을 교체하는 방법을 알아봅니다.</block>
   <block id="f7fdb981561bfd068c5d12767608ebc8" category="summary">사용자 및 그룹 할당량 이벤트는 잠재적 문제를 모니터링할 수 있도록 사용자 및 사용자 그룹 할당량의 용량 및 파일 및 디스크 제한에 대한 정보를 제공합니다. 이벤트는 영향 영역별로 그룹화되며 이벤트 및 트랩 이름, 영향 수준, 소스 유형 및 심각도를 포함합니다.</block>
   <block id="50067c41e9f1092e45320e5b167d9e46" category="doc">사용자 및 그룹 할당량 이벤트입니다</block>
   <block id="6ba841d8b866e4450d6de35728cb1d0c" category="paragraph">사용자 또는 그룹 할당량 디스크 공간 소프트 제한값 위반(문서 EvtUserOrGroupQuotaDiskSpaceSoftLimitBreached)</block>
@@ -9920,7 +9903,6 @@
   <block id="c84860a9f6e5104c0f3572c47211cc21" category="list-text">모니터링되지 않음</block>
   <block id="025365c894e964be403cb5bd88d14798" category="list-text">VM 옆의 아래쪽 화살표를 클릭하여 컴퓨팅, 네트워크 및 스토리지 계층 전체에서 구성 요소 토폴로지에 대한 요약 보기를 표시합니다. 지연 시간 문제가 있는 노드가 강조 표시됩니다. 요약 보기에는 구성 요소의 지연 시간이 가장 짧습니다. 예를 들어, VM에 가상 디스크가 두 개 이상 있는 경우 이 보기에는 모든 가상 디스크 중에서 지연 시간이 가장 짧은 가상 디스크가 표시됩니다.</block>
   <block id="b2852f4b6790249b1afa31156c609cca" category="list-text">일정 기간 동안 데이터 저장소의 지연 시간 및 처리량을 분석하려면 데이터 저장소 개체 아이콘 위에 있는 * Workload Analyzer * 버튼을 클릭합니다. 워크로드 분석 페이지로 이동하여 시간 범위를 선택하고 데이터 저장소의 성능 차트를 확인할 수 있습니다. 워크로드 분석기에 대한 자세한 내용은 _ 워크로드 분석기를 사용한 워크로드 문제 해결 _ 을(를) 참조하십시오.</block>
-  <block id="678e3b6c8d79dadf59a1b550827b001a" category="paragraph"><block ref="678e3b6c8d79dadf59a1b550827b001a" category="inline-link-macro-rx"></block></block>
   <block id="c64cdbe5b3e71277fb72683ca1126415" category="section-title">확장된 토폴로지 보기</block>
   <block id="0cb243721275242d43e08ae33d6bbcb5" category="paragraph">VM의 확장된 토폴로지를 확인하여 각 구성 요소별로 드릴다운할 수 있습니다.</block>
   <block id="208418858150638b18e724bc3b4cb874" category="list-text">요약 토폴로지 보기에서 * 토폴로지 확장 * 을 클릭합니다. 각 구성 요소의 상세한 토폴로지와 각 개체의 지연 시간 번호를 별도로 확인할 수 있습니다. 데이터 저장소 또는 VMDK에 여러 노드 같은 범주에 여러 노드가 있는 경우 지연 시간이 가장 짧은 노드는 빨간색으로 강조 표시됩니다.</block>
@@ -11126,7 +11108,6 @@
   <block id="7b2ca92a0e10c48d7631c9609a6d7067" category="paragraph">지연 시간 및 활동 차트에는 커서를 차트 위에 놓으면 최상위 워크로드의 이름이 표시됩니다. 차트 오른쪽의 워크로드 유형 메뉴를 클릭하면 _Sharks_, _bullies_, 또는 _inuss_ 등의 이벤트 역할에 따라 워크로드를 정렬할 수 있으며 경합 중인 클러스터 구성 요소의 지연 시간 및 사용 현황에 대한 세부 정보를 표시합니다. 실제 값을 예상 값과 비교하여 워크로드가 예상 지연 시간 또는 사용 범위를 벗어난 시점을 확인할 수 있습니다. 을 참조하십시오 <block ref="9f2938dff180af01fa93d55b4de76b26" category="inline-xref-macro-rx"></block>.</block>
   <block id="db69501da9f35d5723a50c4a668d5bb1" category="paragraph">지연 시간이 최대 편차로 정렬되면 사용자 정의 워크로드에만 지연 시간이 적용되므로 시스템 정의 워크로드가 표에 표시되지 않습니다. 지연 시간이 매우 짧은 워크로드는 테이블에 표시되지 않습니다.</block>
   <block id="e5ee071b3b431489cbbdfadb0adb789c" category="inline-link-macro">이벤트 정의</block>
-  <block id="9cd94be50f953ca5b3d67273e067ae6c" category="paragraph">동적 성능 임계값에 대한 자세한 내용은 를 참조하십시오 <block ref="0535bb9dbc4ba4c8dec14b625dcb4a64" category="inline-link-macro-rx"></block>. Unified Manager에서 워크로드의 순위를 결정하고 정렬 순서를 결정하는 방법에 대한 자세한 내용은 을 참조하십시오 <block ref="588858b1cc06423e48caf8172f8d9578" category="inline-xref-macro-rx"></block>.</block>
   <block id="7427acf420f5207b8ae1131352d073c7" category="paragraph">그래프의 데이터는 이벤트를 마지막으로 분석하기 전에 24시간 동안의 성능 통계를 보여줍니다. 각 워크로드의 실제 값과 예상 값은 워크로드가 발생한 시간을 기준으로 합니다. 예를 들어, 이벤트가 감지된 후 워크로드가 이벤트에 포함될 수 있으므로 이벤트 감지 시 성능 통계가 값과 일치하지 않을 수 있습니다. 기본적으로 워크로드는 지연 시간의 최대(최고) 편차별로 정렬됩니다.</block>
   <block id="2545bfbff2b57fe22210b418aa7b0bde" category="paragraph">Unified Manager에서는 최대 30일간 5분간 기간별 성능 및 이벤트 데이터를 유지할 수 있으므로, 30일이 경과되지 않은 경우 성능 데이터가 표시되지 않습니다.</block>
   <block id="a1fb5903985467b316b77afec2a094fa" category="list-text">* 워크로드 정렬 열 *</block>
@@ -11134,7 +11115,6 @@
   <block id="ad66c9e4c4aac43f31d0399bd4bda649" category="paragraph">마지막 분석 동안 워크로드의 지연 시간에 이벤트가 미치는 영향을 표시합니다.</block>
   <block id="733e7290b02f4bcfc4024e1c7717761e" category="list-text">* 구성 요소 사용 열 *</block>
   <block id="b0a053673931b228f989352c64b39510" category="inline-link-macro">워크로드 성능 측정</block>
-  <block id="7217fed83eafaf5cd5c315f3fae6bdc0" category="paragraph">경합하는 클러스터 구성 요소의 워크로드 사용에 대한 세부 정보를 표시합니다. 그래프에서 실제 사용량은 파란색 선입니다. 빨간색 막대는 감지 시간부터 마지막으로 분석된 시간까지 이벤트 지속 시간을 강조 표시합니다. 자세한 내용은 을 참조하십시오 <block ref="441c1f0640ee23e8a572ef20ebbdc844" category="inline-link-macro-rx"></block>.</block>
   <block id="6b3abe7014911eaecd1bb9f29044ebe9" category="paragraph">네트워크 구성요소의 경우, 네트워크 성능 통계는 클러스터 외부의 활동에서 얻을 수 있기 때문에 이 열은 표시되지 않습니다.</block>
   <block id="c1488620d5b7412ffad628b521ecbba0" category="list-text">* 구성 요소 사용 *</block>
   <block id="63c1fe7ae0c47abf05be33ca259c4db4" category="paragraph">QoS 정책 그룹 구성 요소에 대한 네트워크 처리, 데이터 처리 및 집계 구성 요소 또는 작업 내역(백분율)의 사용률 기록을 표시합니다. 네트워크 또는 상호 연결 구성 요소에 대한 차트는 표시되지 않습니다. 통계를 가리켜 특정 시점의 사용 통계를 볼 수 있습니다.</block>
@@ -11603,7 +11583,6 @@
   <block id="218fd42c69de99639a37d9448b9acdf3" category="paragraph">아래 나열된 패널 중 일부는 구성에 따라 페이지에 나타나지 않을 수 있습니다.</block>
   <block id="7159b8d16e082bb281a900b08b5b3c53" category="list-text">* 관리 작업 패널 *</block>
   <block id="5c30d4e8e903f03c3436b4550c821396" category="paragraph">Unified Manager에서 완벽하게 진단하고 한 가지 해결 방법을 제공할 수 있는 특정 문제가 있습니다. 사용 가능한 경우 이러한 해상도는 이 패널에 * Fix it * 버튼과 함께 표시됩니다. ONTAP System Manager 또는 ONTAP CLI를 사용하지 않고 Unified Manager에서 이러한 문제를 즉시 해결할 수 있습니다.</block>
-  <block id="44da280fca517a69ac2e7a77046f5abe" category="paragraph">을 참조하십시오 <block ref="28b6b8afce069695e6ee578108372193" category="inline-link-macro-rx"></block> 를 참조하십시오.</block>
   <block id="fefbd613edf4fa6e465728bd4899ff3c" category="list-text">* 용량 패널 *</block>
   <block id="7e39569cdb06b9244de42ec3bf906a0c" category="paragraph">모든 클러스터를 볼 때 이 패널에는 각 클러스터의 총 물리적 용량 및 사용된 논리적 용량, 디스크가 꽉 찰 때까지 예상되는 일 수, 구성된 ONTAP 스토리지 효율성 설정에 따른 데이터 축소율이 표시됩니다. 또한 구성된 모든 클라우드 계층에 사용된 용량도 나열됩니다. 막대 차트를 클릭하면 해당 클러스터의 애그리게이트 인벤토리 페이지로 이동합니다. "Days to Full" 텍스트를 클릭하면 남은 용량 일 수가 가장 적은 애그리게이트를 식별하는 메시지가 표시됩니다. 자세한 내용을 보려면 애그리게이트 이름을 클릭하십시오.</block>
   <block id="e3a465be6f734d81ff88e9bfbe1895e1" category="paragraph">단일 클러스터를 볼 때 이 패널에는 로컬 계층의 각 개별 디스크 유형과 클라우드 계층에 따라 정렬된 데이터 애그리게이트의 총 물리적 용량 및 논리적 사용 용량이 표시됩니다. 디스크 유형의 막대 차트를 클릭하면 해당 디스크 유형을 사용하는 볼륨의 볼륨 인벤토리 페이지로 이동합니다.</block>
@@ -12424,7 +12403,6 @@
   <block id="09d454f0bf432593d99fbfd84c9f9293" category="sidebar">구성 및 관리 작업을 수행합니다</block>
   <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">사용자 정의 보고서를 생성합니다</block>
   <block id="5fc23f7e4ef2f5b01f7034e6f2ceb340" category="sidebar">VMware vSphere 시스템에 Unified Manager를 설치합니다</block>
-  <block id="13bd7c1485a8096980a7a59aa3af154f" category="sidebar">Active IQ Unified Manager 제품 설명서</block>
   <block id="32d8b1bb1bdc5067bfbde495253b3469" category="sidebar">클러스터 상태를 모니터링하고 관리합니다</block>
   <block id="0cdc2e43fd617d44b61e3c28d05ef9e7" category="sidebar">상태 임계값 관리(클러스터 상태)</block>
   <block id="a4d86585f88de3caa783eefc33f81448" category="sidebar">글로벌 상태 임계값 설정 구성(클러스터 상태)</block>
@@ -12476,5 +12454,21 @@
   <block id="5fdeb821d7d24c5498fe42bdf6a8e55d" category="sidebar"><strong>Fix it</strong> 단추가 표시되면 어떤 옵션이 있는지 확인합니다</block>
   <block id="19966a54541b838c85278932c36c8122" category="sidebar">Unified Manager 호스트 이름 변경(관리 및 모니터링)</block>
   <block id="433a3de67ad10a966d2b8b61c37210d2" category="sidebar">Unified Manager 데이터베이스 디렉토리에 디스크 공간 추가(관리 및 모니터링)</block>
-  <block id="6ab85e747e0c76cd7c95b5eb2dd03018" category="sidebar">설명서에 대한 의견을 보내고 업데이트 알림을 받는 방법</block>
+  <block id="9445df612c310acacfd941dd0eac8823" category="paragraph">시스템 요구 사항에 대한 자세한 내용은 를 참조하십시오 <block ref="a6cf2d64b945a6e5bc413fbb8bde8342" category="inline-link-macro-rx"></block> 및 <block ref="6b67f16fed93b756518b295cb43f355b" category="inline-link-macro-rx"></block>.</block>
+  <block id="5fca475c024edff744644a825e3d9a88" category="paragraph">Unified Manager를 설치하려면 Microsoft .NET 4.5.2 이상 버전이 설치되어 있어야 합니다. 설치 프로세스 중에 Unified Manager가 필요에 따라 다른 타사 패키지를 설치합니다. 종속 소프트웨어 패키지에 대한 자세한 내용은 를 참조하십시오 <block ref="fdccd14fe3a6b01226e28b1c8d5903a3" category="inline-link-macro-rx"></block>.</block>
+  <block id="386e01dc058ac49b633d3ab1bdadb2be" category="paragraph"><block ref="386e01dc058ac49b633d3ab1bdadb2be" category="inline-link-macro-rx"></block></block>
+  <block id="78b6e4ed950dc395bd3f6faeee305a34" category="paragraph">동적 성능 임계값에 대한 자세한 내용은 를 참조하십시오 <block ref="4fbbcfc459c3f0a70cb75c69ab9e6f9c" category="inline-link-macro-rx"></block>. Unified Manager에서 워크로드의 순위를 결정하고 정렬 순서를 결정하는 방법에 대한 자세한 내용은 을 참조하십시오 <block ref="588858b1cc06423e48caf8172f8d9578" category="inline-xref-macro-rx"></block>.</block>
+  <block id="76d5b0d54d461c3c8448cabff04a2e43" category="paragraph">경합하는 클러스터 구성 요소의 워크로드 사용에 대한 세부 정보를 표시합니다. 그래프에서 실제 사용량은 파란색 선입니다. 빨간색 막대는 감지 시간부터 마지막으로 분석된 시간까지 이벤트 지속 시간을 강조 표시합니다. 자세한 내용은 을 참조하십시오 <block ref="25a23eaa5e8a555010bba03b1514776e" category="inline-link-macro-rx"></block>.</block>
+  <block id="1acf808d5167e8d3738f46ff5b4e301e" category="inline-link">Active IQ Unified Manager에서 ONTAP EMS 이벤트 가입으로부터 알림을 구성 및 수신하는 방법</block>
+  <block id="9766ce0b025b0e53ab341f929c8809c9" category="paragraph"><block ref="9766ce0b025b0e53ab341f929c8809c9" category="inline-link-rx"></block></block>
+  <block id="f772a3f7d605caa5bd70b36946fa44ba" category="paragraph">을 참조하십시오 <block ref="d6b5a2a5c0e40c3102c9b2e22cb0b3c7" category="inline-link-macro-rx"></block> 에 표시되는 클러스터 구성 요소에 대한 설명이 나와 있습니다.</block>
+  <block id="c24aa7241469829aa1f0aa125be72ed7" category="paragraph">을 참조하십시오 <block ref="d6b5a2a5c0e40c3102c9b2e22cb0b3c7" category="inline-link-macro-rx"></block> 여기에 표시된 구성 요소에 대한 설명은 를 참조하십시오.</block>
+  <block id="24f0bc4370d5b3d0cc51dca9f18dd3cf" category="paragraph">증분 백업 파일 수가 백업에 할당된 공간에 비해 너무 많은 경우 새 전체 백업을 정기적으로 생성하여 이전의 전체 백업과 모든 하위 증분 파일을 대체할 수 있습니다.</block>
+  <block id="94b9b9bf336f6150715e70e5cfa796db" category="paragraph">을 참조하십시오 <block ref="9e8206a26caab6e01b9c259e68be62a2" category="inline-link-macro-rx"></block> 를 참조하십시오.</block>
+  <block id="26b4fa3b049aebc28e928ab0f5301a79" category="paragraph">ONTAP 클러스터를 9.1에서 9.3(파일 공유의 경우) 및 9.4(LUN의 경우)로 업그레이드하는 경우 Unified Manager에서 관리하는 각 워크로드의 기존 QoS를 AQoS로 업그레이드할 수 있습니다.</block>
+  <block id="021459db8c0de937bd166d39a346138c" category="paragraph"><block ref="021459db8c0de937bd166d39a346138c" category="inline-link-macro-rx"></block></block>
+  <block id="64b2c0c968fd7233752d70038ec0414f" category="paragraph">시스템 요구 사항에 대한 자세한 내용과 보안 사이트에 제품을 설치하는 방법에 대한 자세한 내용은 을 참조하십시오 <block ref="a6cf2d64b945a6e5bc413fbb8bde8342" category="inline-link-macro-rx"></block> 및 <block ref="6b67f16fed93b756518b295cb43f355b" category="inline-link-macro-rx"></block>.</block>
+  <block id="104aa31777a28083b01bd42d1604f40d" category="list-text">원인 필드의 오류 메시지를 검토하고 권장 해결 조치 아래에 있는 제안 사항을 클릭하여 가능한 해결 방법을 검토합니다. <block ref="cfa97ecee8a019da26e072cfc32b4d01" category="inline-link-macro-rx"></block></block>
+  <block id="61e9505d43407b696822b3696a0f6e18" category="list-text"><block ref="61e9505d43407b696822b3696a0f6e18" category="inline-link-macro-rx"></block></block>
+  <block id="1a97fa8225fab34ca587c5011859bf8a" category="list-text"><block ref="4e38818523eff37839ae6350cd7b53b0" category="inline-link-macro-rx"></block>.</block>
 </blocks>

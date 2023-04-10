@@ -18,7 +18,7 @@ summary: VMware vSphere 플랫폼의 Unified Manager에 대한 빠른 시작 가
 * 사용 가능한 디스크 공간: 5GB(씬 프로비저닝), 152GB(일반 프로비저닝)
 
 
-시스템 요구 사항에 대한 자세한 내용은 를 참조하십시오 link:./install-vapp/concept-requirements-for-installing-unified-manager.html["Unified Manager 설치 요구 사항"] 및 link:http://mysupport.netapp.com/matrix["상호 운용성 매트릭스"].
+시스템 요구 사항에 대한 자세한 내용은 를 참조하십시오 link:concept-requirements-for-installing-unified-manager.html["Unified Manager 설치 요구 사항"] 및 link:http://mysupport.netapp.com/matrix["상호 운용성 매트릭스"].
 
 
 
