@@ -2604,7 +2604,6 @@
   <block id="67d49e16538979c413ddeb36f029388c" category="list-text">일정 이름 *, * 수신자 * 목록, * 빈도 *, * 일 * (주간), * 시간 * 을 변경할 수 있습니다. 및 * 형식 * 을 클릭합니다.</block>
   <block id="3c089aca469ff81256c133ec51b447ce" category="list-text">완료되면 확인 표시를 클릭하여 변경 사항을 저장합니다.</block>
   <block id="91d9102f2b20d2487525cb47bf7d79a5" category="summary">Active IQ Unified Manager, AIQUM 문서, UM 문서에 대한 문서입니다</block>
-  <block id="4a58c6ba2ac7cf0f2cd001d223b14e50" category="doc">Active IQ Unified Manager 문서</block>
   <block id="c33d5314a6e7b078bf9d71b8e0c1ea51" category="summary">Unified Manager UI에 액세스하려면 지원되는 브라우저를 사용해야 합니다.</block>
   <block id="6d84e3718084e0db779da4ff8791a2f2" category="doc">지원되는 브라우저</block>
   <block id="db5dfad2e62d29ace046414904d6d365" category="paragraph">지원되는 브라우저 버전 목록은 상호 운용성 매트릭스 를 참조하십시오.</block>
@@ -12478,4 +12477,5 @@
   <block id="ec41073735b02d172b0bc1ee60ea5ec9" category="paragraph"><block ref="ec41073735b02d172b0bc1ee60ea5ec9" category="inline-link-rx"></block></block>
   <block id="20bde173581d26c0c8c8f826587fe6b1" category="paragraph">모든 클러스터를 볼 때 이 패널에는 준수 또는 호환되지 않는 클러스터 수, 규정을 준수하거나 준수하지 않는 SVM 수, 암호화되거나 암호화되지 않은 볼륨 수가 표시됩니다. 규정 준수는 을<block ref="736160f7960b3abe2152eecfe71d1435" category="inline-link-rx"></block>기반으로 합니다. 패널 상단의 오른쪽 화살표를 클릭하여 보안 페이지의 모든 클러스터에 대한 보안 세부 정보를 봅니다.</block>
   <block id="796f4a9be8e525f7e4d64c24bac529c9" category="paragraph"><block ref="796f4a9be8e525f7e4d64c24bac529c9" category="inline-link-rx"></block></block>
+  <block id="dd5452c4b1a9b73792ee149d9b8c4bd0" category="sidebar">Active IQ Unified Manager 9.7 설명서</block>
 </blocks>
