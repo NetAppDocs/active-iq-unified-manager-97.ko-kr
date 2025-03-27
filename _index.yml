@@ -1,8 +1,10 @@
 ---
 indexpage:
   title: Active IQ Unified Manager 9.7 설명서
-  summary: Active IQ Unified Manager, AIQUM 문서, UM 문서에 대한 문서입니다
-  keywords: aoqum docs, um, ontap storage systems
+  summary: Active IQ Unified Manager(Unified Manager 및 이전의 OnCommand Unified Manager)를
+    사용하면 단일 인터페이스에서 ONTAP 스토리지 시스템의 상태 및 성능을 모니터링 및 관리할 수 있습니다. 이 설명서 라이브러리에는 버전 9.7에
+    대한 정보가 포함되어 있습니다.
+  keywords: aoqum docs, um, ontap storage systems, active iq unified manager, 9.7
   lead: Active IQ Unified Manager(Unified Manager 및 이전의 OnCommand Unified Manager)를
     사용하면 단일 인터페이스에서 ONTAP 스토리지 시스템의 상태 및 성능을 모니터링 및 관리할 수 있습니다. 이 설명서 라이브러리에는 버전 9.7에
     대한 정보가 포함되어 있습니다.
